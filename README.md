@@ -1,6 +1,7 @@
 Mongodb-Awr
 ===========
 如发现问题可以联系：Mail:select.liu@hotmail.com Or Tele:13905699305 Or QQ:736053407
+
 Monogdb Awr是用python语言开发的。
 主要记录了内存，lock，record stats，opcounter profile，bad sql等几大块信息，在mongodb2.4.5和mongodb2.4.9已经做过测试。
 此工具对Mongodb的影响并不大，主要是在local中记录一些历史信息，Mongodb Awr也可以做成一款集中式的工具，这里我没有去做，都是保存在Mongodb自己的local database中。在安装配置时也不需要特别设置Mongodb，如果要记录Mongodb的bad sql需要开启profile。
