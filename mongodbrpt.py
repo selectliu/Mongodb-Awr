@@ -55,7 +55,7 @@ elif(len( sys.argv ) <> 4 ):
 	          print  "Pls  enter the following periods: \n"                                                                        
 	          print "The Earliest Start  time: %s" %begtime                                                                                    
 	          print "The Latest Start time: %s" %endtime                                                                                    
-                  print "If you find some question,you can connect me."
+                  print "If you find some question,you can contact me."
                   print "Mail:select.liu@hotmail.com Or Tele:13905699305 Or QQ:736053407"
                   print "\n"
  	          print  "------------------------------------\n"      
